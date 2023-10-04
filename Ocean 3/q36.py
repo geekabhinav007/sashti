@@ -12,6 +12,7 @@ def throwBall(n):
     return maxi
 
 
+
 n = int(input("Enter Number of bins : "))
 
 print(throwBall(n))
